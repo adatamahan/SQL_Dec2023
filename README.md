@@ -5,4 +5,4 @@ Astrid Hansen <br>
 
 This repository contains: <br>
 - a python file with SQL code and visualizations <br>
-- a written assignment based on the findings in the python file
+- a pdf file with answers to theoretical questions as well as a study based on the findings from the database
